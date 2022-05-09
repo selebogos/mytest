@@ -35,6 +35,7 @@ namespace test
 				int c=67;
                 int b=0;
                 int sum = a + c - b;
+		 int sqr=a*a;
                 app.UseDeveloperExceptionPage();
             }
             else

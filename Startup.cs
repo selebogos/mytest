@@ -31,6 +31,7 @@ namespace test
         {
             if (env.IsDevelopment())
             {
+                int a=99;
                 app.UseDeveloperExceptionPage();
             }
             else

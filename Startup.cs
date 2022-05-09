@@ -33,6 +33,7 @@ namespace test
             {
                 int a=99;
 				int c=67;
+                int b=0;
                 app.UseDeveloperExceptionPage();
             }
             else
